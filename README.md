@@ -17,7 +17,7 @@ simultaneamente como código executável e relatório.
 
 - **367 imagens** de **43 pets** distintos, todas 256×256.
 - Distribuição fortemente desbalanceada (de 1 a 20 fotos por pet).
-- Para a **classificação**, pets com menos de 3 fotos foram removidos → **362 imagens, 38 classes**.
+- Para a **classificação**, pets com menos de 3 fotos foram removidos: **362 imagens, 38 classes**.
 - Para a **busca**, todas as 367 imagens são usadas como consulta.
 
 > Problema *fine-grained*: com 38 classes, o baseline aleatório de classificação é
